@@ -1,9 +1,9 @@
 streamlit
-opencv-python
+opencv-python-headless
 numpy
-Pillow
-keras
-tensorflow
-mediapipe
+pillow
 yoloface
-keras-facenet
+mediapipe
+keras
+keras_facenet
+IPython
